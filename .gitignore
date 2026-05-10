@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.swp
+__pycache__/
+.obsidian/
+*.tmp
+node_modules/
+
+# Internal-only — do not publish
+docs/
+
